@@ -1,0 +1,2 @@
+# CodeSegments
+Code Segmengts Manager
